@@ -1,0 +1,97 @@
+.feedback{
+    
+    width: 100%;
+    height: 200x;
+    background-color: none;
+    padding-top: 0px;
+     padding-left: 0%;
+	padding-right: 0%;
+    position: fixed;
+    bottom: 40px;
+}
+
+
+div.menubar {
+    background-color: rgb(222, 219, 236);
+    width: 100%;
+    height: 35px;
+    margin-top: 220px;
+    overflow: auto;
+    white-space: nowrap; 
+    text-align: center;
+}
+
+.menubar ul{
+   width: 100%;
+   list-style: none;
+    padding-left: 0;
+    padding-right:0;
+     padding-top: 0px;
+     margin-top: 0;
+  
+ 
+    
+}
+
+
+.menubar ul li{
+   
+    padding-left:7%;
+    padding-right:7%;
+    padding-top:10px;
+    float:left;
+    font-size:13px;
+    font-weight:500;
+}
+
+
+
+.menubar ul li a{
+    
+      display: block;
+    padding-left: 10px;
+    text-decoration: none;
+}
+
+#underline{
+border-bottom: rbg(100, 100, 100);
+}
+
+.addmoney h1 { 
+    margin-top:15px;
+    margin-bottom: 0px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 400;
+   
+}
+
+.addmoney p{
+    margin-top:0px;
+    text-align: center
+
+}
+
+.topbar2 p{
+    color:white;
+    text-align: center;
+    font-size: 18px;
+   
+    
+}
+
+.topbar2{
+    width: 70%;
+    background-color:none;
+    height: 22px;
+    float:left;
+    padding-top: 3px;
+}
+
+#addicon{
+    margin:-5px;
+    
+    
+}
+
+

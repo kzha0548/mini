@@ -1,2 +1,2 @@
-# mini
-for iPad
+# buskus
+final

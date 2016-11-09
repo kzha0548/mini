@@ -1,0 +1,413 @@
+body{
+    margin: 0;
+	/*color:rgba(105,126,143,1);*/
+	font-family: "12 Avenir 85 Heavy 08173", "Helvetica Neue Light", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+    font-weight: 100;
+    background-size: cover;
+    color: rgb(85, 85, 85);
+}
+
+a {
+    text-decoration: none;
+    color: rgb(85, 85, 85);
+}
+
+
+.header{
+    width: 100%;
+    height: 60px;
+    background-color: none;
+    padding-top: 0px;
+     padding-left: 0%;
+	padding-right: 0%;
+    position: fixed;
+    bottom: 0;
+}
+
+
+
+    
+
+#first{
+float: left;
+    height: 45px;
+    background-color: none;
+    position: relative;
+    padding-top: 18px;
+     padding-left: 0px;
+	padding-right: auto;
+    width:38%;
+    
+}
+
+
+ #first ul li{
+    list-style: none;
+    padding-left: 45%;
+    padding-right: 10%;
+     padding-top: 0px;
+     margin-top: 0px;
+     float: left;
+    
+}
+
+#first ul {
+padding-left: 2%;
+    background-color: rgb(70, 62, 103);
+    padding-top: 4px;
+    margin-top: 0px;
+    height: 50px;
+  
+    
+}
+
+
+
+#second{
+    background-color:none; 
+    width: 24%;
+    height: 45px;
+    float: left;
+    padding-top: 0px
+    
+        
+       
+}
+
+
+
+#secondnav{
+    background-color: rgb(70, 62, 103);
+    width: 100%;
+    height: 50px;
+    margin-top: 0px;
+    padding-top: 0px;
+    
+}
+
+#secondnav1{
+    height: 18px;
+}
+
+
+#secondnav1 a img{
+
+   margin-left: auto;
+    padding-left: auto;
+    padding-right: auto;
+    padding-left: auto;
+    margin-top: 0px;
+        padding-top:auto;
+        
+}
+
+
+
+#third{
+float: right;
+    height: 45px;
+     background-color:none;
+   
+    position: relative;
+    padding-top: 18px;
+     padding-left: 0px;
+	padding-right: auto;
+    width:38%;
+    
+}
+
+ #third ul li{
+    list-style: none;
+    padding-left: 10%;
+    padding-right: 45%;
+     padding-top: 0px;
+     margin-top: 2px;
+     float: right;
+    
+}
+
+#third ul {
+padding-left: 2%;
+    background-color: rgb(70, 62, 103);
+    padding-top: 2px;
+    margin-top: 0px;
+    height: 45px;
+  
+    
+}
+
+IMG.display{
+   display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+
+/*--------------------------------------------*/
+
+
+.topcontainer{
+ width: 100%;
+    height: 50px;
+    background-color: none;
+    padding-top: 0px;
+   padding-left: 0%;
+	padding-right: 0%;
+    position: fixed;
+    top: 0;
+}
+
+
+.topbar{
+    background-color: rgb(70, 62, 103);
+    width: 100%;
+    height: 50px;
+    float:left;
+    
+}
+
+
+
+.topbar4{
+    width: 15%;
+    background-color:none;
+    height: 37px;
+    float:left;
+    padding-top: 12px;
+}
+
+.topbar2{
+    width: 70%;
+    background-color:none;
+    height: 22px;
+    float:left;
+    padding-top: 16px;
+}
+
+
+.topbar3{
+    width: 15%;
+    background-color:none;
+    height: 37px;
+    float:right;
+    padding-top: 12px;
+}
+
+
+
+
+.photobar{
+    background-image:url(images/bgimg-16.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    width: 100%;
+    height: 250px;
+    padding: 0;
+    margin: 0;
+    float:left;
+}
+
+
+.photobar1{
+    background-image:url(images/walletbg-18.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    width: 100%;
+    height: 170px;
+    padding: 0;
+    margin: 0;
+    float:left;
+}
+
+.photobar1 img{
+    margin-top: 12px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    background-color:none;
+    clear: both;
+ 
+}
+
+.photobar img{
+    margin-top: 12px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    background-color:none;
+    clear: both;
+ 
+}
+
+.profileimg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    margin-top: 10px;
+    background-color:none;
+    clear: both;
+}
+
+.profilebutton{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    background-color:none;
+    clear: both;
+    
+}    
+
+
+.profiletext h1{
+    margin-top:10px;
+    margin-bottom: 5px;
+    font-family: inherit
+   display: block;
+   text-align: center;
+    font-size: 18px;
+    font-weight: 300;
+    color: white;
+    background-color: none;
+}
+
+
+.profiletext p{
+  margin-top:5px;
+  margin-bottom: 0px;
+  font-family: inherit
+   display: block;
+   text-align: center;
+    font-size: 12px;
+    font-weight: 10;
+    color: white;
+     background-color: none;
+}
+    
+    
+em{
+    font-size: 13px;
+    font-weight: 500;
+    font-style: normal; 
+}
+
+
+
+
+
+
+
+
+.title {
+    background-color: rgb(222, 219, 236);
+    width: 100%;
+    height: 18px;
+    text-align: center;
+    padding-top: 310px;
+    margin-top: 0px;
+    float:left;
+    font-size: 8pt;
+   
+}
+
+
+div.menubar {
+    background-color: rgb(222, 219, 236);
+    width: 100%;
+    height: 35px;
+    margin-top: 220px;
+    overflow: auto;
+    white-space: nowrap;   
+}
+
+
+
+
+.title1 p{
+     text-align: center;
+     font-size: 9pt; 
+    
+}
+
+
+
+.songs {
+    background-color:none;
+    width: 100%;
+    height: 55px;
+    border-bottom: 1px solid rgb(235, 235, 235);
+    float:left;
+}
+
+.songs1{
+    background-color:none; 
+    width: 11%;
+    padding-top: 20px;
+    height: 28px;
+    float: left;
+    text-align: right;
+    padding-right: 4%;
+        font-size: 12;
+        color: grey;
+        
+}
+.songs2{
+    background-color:none; 
+    width: 60%;
+    height: 100%;
+    float: left;
+  
+}
+
+
+.songs3 img{
+    margin-top:7px;
+    float: right;
+    background-color: none;
+    
+    
+}
+
+.upper{
+     background-color:none; 
+    width: 80%;
+    height: 18px;
+    float: left;
+    padding-top: 18px;
+    font-size: 10pt;
+}
+
+.lower{
+     background-color:none; 
+    width: 80%;
+    height: 20px;
+    float: left;  
+    margin-top: auto;
+    margin-bottom: auto;
+    padding-top: 0px;
+    font-size: 7pt;
+}
+
+
+
+
+.basespace{
+    width: 100%;
+    height: 40px;
+    float:left;
+}
+
+
+
+
+
+
+
+
+
+
